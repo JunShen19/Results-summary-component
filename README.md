@@ -12,4 +12,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/resultssummarycom-VDhxn66uA_)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://junshen19.github.io/Results-summary-component/)https://junshen19.github.io/Results-summary-component/)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://junshen19.github.io/Results-summary-component/)https://junshen19.github.io/Results-summary-component/)
