@@ -10,8 +10,7 @@ fetch("data.json")
     const summaryBox = data
       .map((d, idx) => {
         return `<div class="summary-box ${colors[idx]}">
-            <img src='${d.icon}'/>
-              <p>${d.category}</p>
+              <p><img src='${d.icon}'/>${d.category}</p>
               <p class="summary-score"><span class="scored">${d.score}</span> / 100</p>
             </div>`;
       })
