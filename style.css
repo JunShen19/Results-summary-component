@@ -136,8 +136,13 @@ main {
   color: hsl(0, 100%, 67%);
 }
 
-.red p:first-child::before {
+/* .red p:first-child::before {
   content: url("./assets/images/icon-reaction.svg");
+  margin-right: 0.5rem;
+  position: relative;
+  top: 3px;
+} */
+.summary-box img {
   margin-right: 0.5rem;
   position: relative;
   top: 3px;
@@ -149,12 +154,12 @@ main {
 .yellow p:first-child {
   color: hsl(39, 100%, 56%);
 }
-.yellow p:first-child::before {
+/* .yellow p:first-child::before {
   content: url("./assets/images/icon-memory.svg");
   margin-right: 0.5rem;
   position: relative;
   top: 3px;
-}
+} */
 
 .green {
   background-color: hsl(166, 100%, 97%);
@@ -162,12 +167,12 @@ main {
 .green p:first-child {
   color: hsl(166, 100%, 37%);
 }
-.green p:first-child::before {
+/* .green p:first-child::before {
   content: url("./assets/images/icon-verbal.svg");
   margin-right: 0.5rem;
   position: relative;
   top: 3px;
-}
+} */
 
 .blue {
   background-color: hsl(234, 85%, 97%);
@@ -175,12 +180,12 @@ main {
 .blue p:first-child {
   color: hsl(234, 85%, 45%);
 }
-.blue p:first-child::before {
+/* .blue p:first-child::before {
   content: url("./assets/images/icon-visual.svg");
   margin-right: 0.5rem;
   position: relative;
   top: 3px;
-}
+} */
 
 .right-content button {
   height: 12%;
